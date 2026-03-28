@@ -1,6 +1,5 @@
 # customer-product-analysis-dashboard
 A Power BI project that includes customer and product analysis, including sales data.
-# Customer Product Analysis Dashboard
 
 * Overview
 A dashboard application displaying total product sales quantities, return amounts, and revenue information by year, based on customer names
