@@ -9,10 +9,10 @@ Customer-level sales analysis
 Yearly revenue and return tracking
 Interactive filters and dynamic visuals
 
-*Tools Used
+* Tools Used
 Microsoft Power BI Desktop
 Data modeling
 DAX calculations
 
-*Purpose
+* Purpose
 The goal of this project is to support data-driven decision-making by providing a clear and interactive view of customer purchasing behavior and product performance.
